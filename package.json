@@ -1,0 +1,22 @@
+{
+  "name": "play-nodejs",
+  "version": "1.0.0",
+  "description": "this is a simple web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsandrof66/play-nodejs.git"
+  },
+  "keywords": [
+    "webexample"
+  ],
+  "author": "gs strongs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsandrof66/play-nodejs/issues"
+  },
+  "homepage": "https://github.com/gsandrof66/play-nodejs#readme"
+}
